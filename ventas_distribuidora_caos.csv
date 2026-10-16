@@ -1,0 +1,41 @@
+id_venta,fecha_venta,cliente,provincia,sku,producto,cantidad,precio_unitario,monto_total,metodo_pago,estado_pago
+V1001,2026-05-02,  juan perez ,Buenos Aires,F001,Tornillos caja x100,2,"$ 1.500,50","$ 3.001,00",Efectivo,Pagado
+V1002,03/05/2026,Ferretería El Martillo,Córdoba,F002,Disco de corte,10,2500,25000,Transferencia,Pagado
+V1003,"May 04, 2026",MARIA GOMEZ,Santa Fe,F003,Guantes de trabajo,4,"3.200,00","12.800,00",Tarjeta,Pagado
+V1004, 2026-05-05 ,Construcciones Sur,Buenos Aires,F004,Taladro eléctrico,1,"$ 85.000,00","$ 85.000,00",Cuenta corriente,Pendiente
+V1005,06/05/2026,JUAN PEREZ,Bs. As.,F005,Cinta aisladora,6,1500,9000,,Pagado
+V1006,2026/05/07,  ferreteria el martillo  ,Cordoba,F001,Tornillos caja x100,5,"1,500.50","7,502.50",transferencia,Pagado
+V1007,,María Gómez,,F002,Disco de corte,3,"$ 2.500","$ 7.500",Efectivo,Pagado
+V1008,08-05-2026,Electricidad López,Entre Ríos,F005,Cinta aisladora,12,"ARS 1.500,00","ARS 18.000,00",Transferencia,Pendiente
+V1009,2026-05-09,CONSTRUCCIONES SUR,Buenos Aires,F006,Martillo,2,12500,NaN,Cuenta corriente,Pendiente
+V1010,10/05/2026,Juan Pérez,Buenos Aires,F003,Guantes de trabajo,2,"$ 3.200,00","$ 6.400,00",efectivo,Pagado
+V1011,"May 11, 2026",Pinturería Color Norte,Mendoza,F007,Pintura látex 4L,3,"18.500,75","55.502,25",Tarjeta,Pagado
+V1012, 12/05/2026 , maria gomez ,Santa Fe,F006,Martillo,1,12500,12500,,Pendiente
+V1013,NULL,FERRETERIA EL MARTILLO,Córdoba,F004,Taladro eléctrico,1,"$ 85.000,00",  - ,Transferencia,Pagado
+V1014,2026-05-13,Electricidad Lopez,Entre Rios,F008,Cable rollo 100m,2,"45,000.00","90,000.00",TRANSFERENCIA,Pagado
+V1015,14/05/2026,Corralón San José,,F001,Tornillos caja x100,8,"$ 1.500,50","$ 12.004,00",Cuenta corriente,Pendiente
+V1016,"May 15, 2026",  Juan Pérez  ,Buenos Aires,F002,Disco de corte,4,2500,10000,Tarjeta,Pagado
+V1017,2026-05-16,pintureria color norte,Mza.,F007,Pintura látex 4L,2,"$18.500,75","$37.001,50",Efectivo,Pagado
+V1018,17/05/2026,Construcciones sur,Bs As,F008,Cable rollo 100m,1,NaN,45000,Cuenta corriente,Pendiente
+V1019,2026/05/18,María Gómez,Santa Fe,F005,Cinta aisladora,5,1500,"7.500,00 pesos",Transferencia,Pagado
+V1020,19-05-2026,CORRALON SAN JOSE,Buenos Aires,F006,Martillo,3,"12.500,00","37.500,00",,Pendiente
+V1021,2026-05-20,Ferretería El Martillo,Córdoba,F003,Guantes de trabajo,6,"3.200,00","19.200,00",Tarjeta,Pagado
+V1022,, electricidad lopez ,Entre Ríos,F008,Cable rollo 100m,1,45000,45000,Transferencia,Pagado
+V1023,21/05/2026,juan perez,Buenos Aires,F001,Tornillos caja x100,3,1500.50,4501.50,Efectivo,Pagado
+V1024,"May 22, 2026",Pintureria Color Norte,Mendoza,F007,Pintura látex 4L,1,  - ,"$ 18.500,75",Tarjeta,Pagado
+V1025, 2026-05-23 ,Corralón San José,Buenos Aires,F004,Taladro eléctrico,2,85000,170000,Cuenta corriente,Pendiente
+V1026,24/05/2026, MARIA GOMEZ ,Santa Fe,F002,Disco de corte,5,"$ 2.500,00",,Efectivo,Pagado
+V1027,2026-05-25,Construcciones Sur,,F006,Martillo,4,12500,50000,Transferencia,Pendiente
+V1028,26/05/2026,FERRETERÍA EL MARTILLO,Cordoba,F005,Cinta aisladora,10,"1.500,00","15.000,00",tarjeta,Pagado
+V1029,"May 27, 2026",Electricidad López,Entre Ríos,F003,Guantes de trabajo,3,"$ 3.200,00",ERROR,Transferencia,Pagado
+V1030,2026/05/28,Juan Perez,Bs. As.,F006,Martillo,1,12500,12500,Efectivo,Pagado
+V1031,29-05-2026,PINTURERIA COLOR NORTE,Mendoza,F007,Pintura látex 4L,4,"18,500.75","74,003.00",,Pagado
+V1032,2026-05-30,corralon san jose,Buenos Aires,F001,Tornillos caja x100,10,"$ 1.500,50","$ 15.005,00",Cuenta corriente,Pendiente
+V1033,31/05/2026,María Gómez,Santa Fe,F004,Taladro eléctrico,1,85000,"85.000,00",Transferencia,Pagado
+V1034,2026-05-31,  Construcciones Sur  ,Buenos Aires,F002,Disco de corte,8,2500,20000,Cuenta corriente,Pendiente
+V1035,NaN,Ferretería El Martillo,,F008,Cable rollo 100m,1,"$ 45.000,00","$ 45.000,00",Transferencia,Pagado
+V1036, 30/05/2026 ,Electricidad Lopez,Entre Rios,F005,Cinta aisladora,7,1500,10500,Efectivo,Pagado
+V1002,03/05/2026,Ferretería El Martillo,Córdoba,F002,Disco de corte,10,2500,25000,Transferencia,Pagado
+V1007,,María Gómez,,F002,Disco de corte,3,"$ 2.500","$ 7.500",Efectivo,Pagado
+V1016,"May 15, 2026",  Juan Pérez  ,Buenos Aires,F002,Disco de corte,4,2500,10000,Tarjeta,Pagado
+V1029,"May 27, 2026",Electricidad López,Entre Ríos,F003,Guantes de trabajo,3,"$ 3.200,00",ERROR,Transferencia,Pagado

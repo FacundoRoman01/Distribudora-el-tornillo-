@@ -1,0 +1,12 @@
+# Entornos virtuales y dependencias de Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Archivos de la base de datos local SQLite (se regeneran con el script)
+*.db
+
+# Archivos de caché del sistema operativo
+.DS_Store
+Thumbs.db
